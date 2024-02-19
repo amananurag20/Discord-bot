@@ -1,0 +1,66 @@
+[
+  {
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "What does DOM stand for in JavaScript?",
+        "options": ["Document Object Model", "Data Object Model", "Dynamic Object Model", "Document Oriented Model"],
+        "correct_answer": "Document Object Model"
+      },
+      {
+        "type": "mcq",
+        "question": "Which keyword is used to declare variables in JavaScript?",
+        "options": ["var", "let", "const", "all of the above"],
+        "correct_answer": "all of the above"
+      },
+      {
+        "type": "mcq",
+        "question": "What will the following code output?\nconsole.log(1 + '2' + '2');",
+        "options": ["122", "32", "14", "NaN"],
+        "correct_answer": "122"
+      },
+      {
+        "type": "mcq",
+        "question": "Which method is used to add an element to the end of an array in JavaScript?",
+        "options": [".push()", ".add()", ".append()", ".insert()"],
+        "correct_answer": ".push()"
+      },
+      {
+        "type": "mcq",
+        "question": "What does 'NaN' stand for in JavaScript?",
+        "options": ["Null and Negative", "Not a Number", "Number and Null", "None of the above"],
+        "correct_answer": "Not a Number"
+      },
+      {
+        "type": "mcq",
+        "question": "What is the result of the expression: 3 * '3'?",
+        "options": ["9", "'33'", "NaN", "0"],
+        "correct_answer": "9"
+      },
+      {
+        "type": "mcq",
+        "question": "Which of the following is not a JavaScript data type?",
+        "options": ["Boolean", "String", "Undefined", "Float"],
+        "correct_answer": "Float"
+      },
+      {
+        "type": "mcq",
+        "question": "What is the output of the following code snippet?\nconsole.log(2 + true);",
+        "options": ["2", "3", "true", "NaN"],
+        "correct_answer": "3"
+      },
+      {
+        "type": "mcq",
+        "question": "Which symbol is used for single-line comments in JavaScript?",
+        "options": ["//", "/*", "--", "%%"],
+        "correct_answer": "//"
+      },
+      {
+        "type": "mcq",
+        "question": "What will be the output of the following code snippet?\nconsole.log(5 == '5');",
+        "options": ["true", "false", "undefined", "NaN"],
+        "correct_answer": "true"
+      }
+    ]
+  }
+]
